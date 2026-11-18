@@ -1,16 +1,16 @@
 # CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
 
 
-## Project Proposal Template:
+## Project Proposal Template: 
 
-### Project Title or Name of the Application	:
+### Project Title or Name of the Application	: Cryptographic Decoder
 ### Section			   	      : Sodium
 ### Group Members			    : SALONGA, Jian Achilles; TANDOG, Johannes Brylle; TICZON, Christopher Manuel
 ### Date (Proposal Date)  : Nov 5, 2026
 
 ### Project Description:
 
-- A brief summary of the project description and the need for it.
+- Our Cryptographic Decoder is a program designed to simplify the process of decryption. In today's world where data privacy is seen everywhere, cybersecurity professionals, cryptanalysts, and hobbyists regularly encounter encrypted texts requiring immediate decoding. Our software allows users to detect the overall cipher type and apply appropriate decoding methods to transform the encrypted data into human-readable messages.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
