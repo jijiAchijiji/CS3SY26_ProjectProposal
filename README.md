@@ -6,7 +6,7 @@
 ### Project Title or Name of the Application	: Cryptographic Decoder
 ### Section			   	      : Sodium
 ### Group Members			    : SALONGA, Jian Achilles; TANDOG, Johannes Brylle; TICZON, Christopher Manuel
-### Date (Proposal Date)  : Nov 5, 2026
+### Date (Proposal Date)  : Nov 20, 2026
 
 ### Project Description:
 
@@ -14,7 +14,10 @@
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
-- Include the description as well of your target demographics as the user of your application. 
+- • Cybersecurity Professionals/Students: People learning, teaching, or using cryptograhy, cryptanalysis, and encoding standards for their requirements.
+  • Cryptanalysts: Professionals who analyze ciphers, encryption systems, and security implementations to find weaknesses and access encrypted data without knowing the key.
+  • Hobbysists: Cryptography enthusiasts who need fast and relaible tools to decode cipher/cipher layers during competitions or for games.
+  • Software Developers: Professionals needing a quick tool to inspect strings for ciphers in their software/programs.
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
