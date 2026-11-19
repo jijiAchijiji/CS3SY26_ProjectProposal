@@ -22,11 +22,7 @@
   
   • Software Developers: Professionals needing a quick tool to inspect strings for ciphers in their software/programs.
 
-- The description is then followed by the class diagram, depicting clearly what was described.
-
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
-
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
+- Class Diagram: ![Class Diagram of Cryptographic Decoder](image.png)
 
 ### Goals:
 
