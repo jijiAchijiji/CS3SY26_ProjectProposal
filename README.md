@@ -13,13 +13,10 @@
 - Our Cryptographic Decoder is a program designed to simplify the process of decryption. In today's world where data privacy is seen everywhere, cybersecurity professionals, cryptanalysts, and hobbyists regularly encounter encrypted texts requiring immediate decoding. Our software allows users to detect the overall cipher type and apply appropriate decoding methods to transform the encrypted data into human-readable messages.
 
 - System Features:
-  • Cipher Detection & Algorithm Management: Detects potential ciphers, takes into account available decoding algorithms, selects a viable algorithm, decodes the encrypted data, and manages a history of operations.
-
-  • Pattern Analysis: Evaluates inputs using n-gram frequencies, entropy scores, and confidence metrics to identify patterns.
-
-  • Multi-Format Decoding: Provides a decoder engine supporting AES, Base64, and Caesar ciphers, including specific helpers such as key derivation, padding checks, and brute-force attempts.
-
-  • Interactive User Interface: Offers a dashboard to get input strings, select ciphers, display decoded outputs or error messages, toggle UI themes, and export reports.
+  - Cipher Detection & Algorithm Management: Detects potential ciphers, takes into account available decoding algorithms, selects a viable algorithm, decodes the encrypted data, and manages a history of operations.
+  - Pattern Analysis: Evaluates inputs using n-gram frequencies, entropy scores, and confidence metrics to identify patterns.
+  - Multi-Format Decoding: Provides a decoder engine supporting AES, Base64, and Caesar ciphers, including specific helpers such as key derivation, padding checks, and brute-force attempts.
+  - Interactive User Interface: Offers a dashboard to get input strings, select ciphers, display decoded outputs or error messages, toggle UI themes, and export reports.
 
   System Components (Classes):
   1. CipherManager (overall controller)
@@ -103,11 +100,9 @@
 
 - • Cybersecurity Professionals/Students: People learning, teaching, or using cryptograhy, cryptanalysis, and encoding standards for their requirements.
   
-  • Cryptanalysts: Professionals who analyze ciphers, encryption systems, and security implementations to find weaknesses and access encrypted data without knowing the key.
-  
-  • Hobbysists: Cryptography enthusiasts who need fast and relaible tools to decode cipher/cipher layers during competitions or for games.
-  
-  • Software Developers: Professionals needing a quick tool to inspect strings for ciphers in their software/programs.
+  - Cryptanalysts: Professionals who analyze ciphers, encryption systems, and security implementations to find weaknesses and access encrypted data without knowing the key.
+  - Hobbysists: Cryptography enthusiasts who need fast and relaible tools to decode cipher/cipher layers during competitions or for games.
+  - Software Developers: Professionals needing a quick tool to inspect strings for ciphers in their software/programs.
 
 - Class Diagram: ![Class Diagram of Cryptographic Decoder](image.png)
 
