@@ -110,8 +110,8 @@
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
-- Objective 2:
-- Objective n:
+- Objective 1: Automated Cipher Identification and Efficient Decoding - Provide users a feature that immediately identifies the cipher type, gives a description of the cipher type, shows its alphabet translation, and decodes the text into a clear, easy-to-read message within seconds
+- Objective 2: User-Friendly - Make a simple, creative GUI where anyone can easily paste the ciphertext, check the cipher type's description, the alphabet of the cipher type, and receive their decoded message in a few buttons.
+- Objective 3: Educational and Practicality - Make the Cryptographic Decoder viable and practical for everybody (students, teachers, cybersecurity professionals, etc.), and the description and alphabet of each cipher type should be educational and easy to understand.
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
